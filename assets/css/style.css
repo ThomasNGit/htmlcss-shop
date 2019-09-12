@@ -87,3 +87,8 @@
   top: 400px;
   left: 620px;
 }
+
+/* creazione del cuore :hover */
+.image:hover{
+  cursor: url(../img/cuore.png), pointer;
+}
