@@ -1,0 +1,30 @@
+/* stile div generale */
+.general{
+  margin-top: 10px;
+  position: relative;
+}
+
+/* stile primi 3 elementi */
+.tablet {
+  background-image: url(../img/pd1.jpg);
+  height: 372px;
+  width: 300px;
+}
+
+.smartphone {
+  background-image: url(../img/pd2.jpg);
+  height: 372px;
+  width: 300px;
+  position: absolute;
+  left: 310px;
+  top: 0;
+}
+
+.headphone {
+  background-image: url(../img/pd3.jpg);
+  height: 372px;
+  width: 300px;
+  position: absolute;
+  left: 620px;
+  top: 0;
+}
