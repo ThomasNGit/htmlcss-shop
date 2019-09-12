@@ -59,3 +59,31 @@
   font-weight: bold;
   font-size: 1.1em;
 }
+
+/* creazione stile dei 3 elementi sottostanti */
+.tablet2{
+  background-image: url(../img/pd1.jpg);
+  height: 372px;
+  width: 300px;
+  position: relative;
+  top: 400px;
+  left: 0;
+}
+
+.smartphone2{
+  background-image: url(../img/pd2.jpg);
+  height: 372px;
+  width: 300px;
+  position: relative;
+  left: 310px;
+  top: 28px;
+}
+
+.headphone2{
+  background-image: url(../img/pd3.jpg);
+  height: 372px;
+  width: 300px;
+  position: absolute;
+  top: 400px;
+  left: 620px;
+}
